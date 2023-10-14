@@ -36,3 +36,4 @@ Update-Database
 # Once you find the database, navigate to the "dbo.AspNetUsers" table and double-click on it and check it out!
 
 # Now, run the App and try it! you will see "Register" and "Login" links appear on the top-right of the web page!
+Try to register a user and then go to "dbo.AspNetUsers" table and right-click on it, then click on "View Data", you will find the registered user added to the table!
